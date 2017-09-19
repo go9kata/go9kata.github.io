@@ -1,0 +1,1 @@
+# go9kata.github.io
