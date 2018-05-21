@@ -1,2 +1,59 @@
-theme: jekyll-theme-slate
+
 remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin    :  "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Test Title"
+title_separator          : "-"
+name                     : &name "Georgi A. Tushev" # &name is a YAML anchor which can be *referenced later
+description              : &description "Describe myself."
+url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
+# Social Sharing
+twitter:
+  username               : &twitter "go9kata"
+  
+linkedin:
+  username               : &linkedin "georgitushev"  
+  
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/go9kata"
+    - "https://linkedin.com/in/georgitushev"
+    
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/michael-rose.jpg"
+  bio              : "Just another boring, tattooed, time traveling, designer."
+  location         : "Frankfurt am Main, Germany"
+  email            :
+  uri              : "https://mademistakes.com"
+  home             : "https://mademistakes.com"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
+  github           : "go9kata"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        : 
+  lastfm           :
+  linkedin         : *linkedin
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # https://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : *twitter
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :    
