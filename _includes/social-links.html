@@ -58,10 +58,16 @@
             <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
         </a>
     {% endif %}
-    
+
     {% if site.molgen %}
     <a class="link" data-title="github.molgen.mpg.de/{{ site.molgen }}" href="https://github.molgen.mpg.de/{{ site.molgen }}" target="_blank">
         <svg class="icon icon-molgen"><use xlink:href="#icon-molgen"></use></svg>
+    </a>
+    {% endif %}
+
+    {% if site.researchgate %}
+    <a class="link" data-title="researchgate.net/profile/{{ site.researchgate }}" href="https://www.researchgate.net/profile/{{ site.researchgate }}" target="_blank">
+        <svg class="icon icon-researchgate"><use xlink:href="#icon-researchgate"></use></svg>
     </a>
     {% endif %}
 

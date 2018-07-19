@@ -1,7 +1,7 @@
 var w = 500,
 h = 500;
 
-var colorscale = d3.scale.category10();
+//var colorscale = d3.scale.category10();
 //var colorscale = d3.interpolatePurples(0.5)
 
 // Data
@@ -25,7 +25,8 @@ w: w,
 h: h,
 maxValue: 1.0,
 levels: 5,
-ExtraWidthX: 300
+ExtraWidthX: 300,
+color: d3.scale.interpolatePurples(0.5)
 }
 
 //Call function to draw the Radar chart
