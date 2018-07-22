@@ -1,32 +1,26 @@
-var w = 500,
-h = 500;
-
-//var colorscale = d3.scale.category10();
-//var colorscale = d3.interpolatePurples(0.5)
-
 // Data
 var d = [[
-          {axis:"embeded C",value:0.7},
-          {axis:"C++",value:0.8},
-          {axis:"Perl",value:0.9},
-          {axis:"Matlab",value:0.95},
-          {axis:"AWK/GREP/SED",value:0.9},
-          {axis:"Shell Script",value:0.65},
-          {axis:"R",value:0.55},
-          {axis:"HTML/JavaScript/CSS",value:0.2},
-          {axis:"Java",value:0.15},
-          {axis:"Python",value:0.35},
-          {axis:"Git",value:0.75}
+          {axis:"Transcriptomics",value:0.7},
+          {axis:"Proteomics",value:0.7},
+          {axis:"Arduino / Microcontrollers",value:0.8},
+          {axis:"Machine learning",value:0.9},
+          {axis:"Image processing",value:0.95},
+          {axis:"Video acquisition",value:0.9},
+          {axis:"Signal processing",value:0.65},
+          {axis:"Statistics",value:0.55},
+          {axis:"Bioinformatics tools",value:0.2},
+          {axis:"Molecular biology",value:0.35},
+          {axis:"Neuroscience techniques",value:0.75}
         ]];
 
 //Options for the Radar chart, other than default
 var mycfg = {
-w: w,
-h: h,
+w: 500,
+h: 500,
 maxValue: 1.0,
 levels: 5,
 ExtraWidthX: 300,
-color: d3.scale.interpolatePurples(0.5)
+color: d3.scale.ordinal().range(["#1E90FF"])
 }
 
 //Call function to draw the Radar chart

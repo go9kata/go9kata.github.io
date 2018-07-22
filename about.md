@@ -16,7 +16,6 @@ layout: about
 
 <div id="chart_experience"></div>
 
-
 ## Awards
 
 [Friends of the MPI for Brain Research](https://brain.mpg.de/services/become-a-friend/) award for the best Ph.D. work in [2015](https://brain.mpg.de/fileadmin/user_upload/images/Friends/Newsletter_2_2015.pdf).
