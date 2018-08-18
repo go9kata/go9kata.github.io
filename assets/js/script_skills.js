@@ -1,7 +1,7 @@
 // Data
 var d = [[
           {axis:"embeded C",value:0.7},
-          {axis:"C++ / Qt",value:0.8},
+          {axis:"C++ / Qt",value:0.65},
           {axis:"Perl",value:0.9},
           {axis:"Matlab",value:0.95},
           {axis:"AWK/GREP/SED",value:0.9},
@@ -10,7 +10,7 @@ var d = [[
           {axis:"HTML/JavaScript/CSS",value:0.2},
           {axis:"Java",value:0.15},
           {axis:"Python",value:0.35},
-          {axis:"Git",value:0.75}
+          {axis:"Git",value:0.8}
         ]];
 
 //Options for the Radar chart, other than default

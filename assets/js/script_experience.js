@@ -1,15 +1,15 @@
 // Data
 var d = [[
-          {axis:"Transcriptomics",value:0.7},
-          {axis:"Proteomics",value:0.7},
+          {axis:"Transcriptomics",value:0.9},
+          {axis:"Proteomics",value:0.65},
           {axis:"Arduino / Microcontrollers",value:0.8},
-          {axis:"Machine learning",value:0.9},
+          {axis:"Machine learning",value:0.6},
           {axis:"Image processing",value:0.95},
           {axis:"Video acquisition",value:0.9},
           {axis:"Signal processing",value:0.65},
           {axis:"Statistics",value:0.55},
-          {axis:"Bioinformatics tools",value:0.2},
-          {axis:"Molecular biology",value:0.35},
+          {axis:"Bioinformatics tools",value:0.9},
+          {axis:"Molecular biology",value:0.85},
           {axis:"Neuroscience techniques",value:0.75}
         ]];
 
