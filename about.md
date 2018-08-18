@@ -4,9 +4,11 @@ layout: about
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Trained as biomedical engineer and software developer with skills in machine learing and big data analysis and visualization.</p>
+<p>Trained as biomedical engineer and software developer with skills in machine learning and big data analysis and visualization.</p>
 
 <p>Working as a senior software developer and data analyst in the field of neuroscience. </p>
+
+<p>Consulting on modern IT infrastructure implementation, organization and maintenance for big data storage and scientific computing.</p> 
 
 <h2>Skill set</h2>
 
