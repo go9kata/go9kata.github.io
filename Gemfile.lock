@@ -281,6 +281,7 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll-admin
+  jekyll-sass-converter
 
 BUNDLED WITH
    1.17.2

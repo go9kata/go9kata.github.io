@@ -1,7 +1,7 @@
 // Data
 var d = [[
-          {axis:"Transcriptomics",value:0.9},
-          {axis:"Proteomics",value:0.65},
+          {axis:"Omics",value:0.9},
+          {axis:"IT infrastructure",value:0.65},
           {axis:"Arduino / Microcontrollers",value:0.8},
           {axis:"Machine learning",value:0.6},
           {axis:"Image processing",value:0.95},
