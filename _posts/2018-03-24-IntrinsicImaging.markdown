@@ -10,5 +10,5 @@ hidden: true # don't count this post in blog pagination
 description: "Imaging technique to capture periodic brain activity"
 category: project
 author: go9kata
-externalLink: https://github.molgen.mpg.de/MPIBR/IntrinsicImaging
+externalLink: https://gitlab.mpcdf.mpg.de/mpibr/scic/IntrinsicImaging
 ---

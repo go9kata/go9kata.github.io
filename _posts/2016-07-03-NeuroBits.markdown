@@ -10,5 +10,5 @@ hidden: true # don't count this post in blog pagination
 description: "Example of MVC usage in Matlab"
 category: project
 author: go9kata
-externalLink: https://github.molgen.mpg.de/MPIBR/NeuroBits
+externalLink: https://gitlab.mpcdf.mpg.de/mpibr/scic/NeuroBits
 ---

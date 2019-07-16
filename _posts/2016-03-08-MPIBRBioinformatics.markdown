@@ -10,5 +10,5 @@ hidden: true # don't count this post in blog pagination
 description: "Bundle of bioinformatics scripts and pipelines used in MPIBR"
 category: project
 author: go9kata
-externalLink: https://github.molgen.mpg.de/MPIBR-Bioinformatics
+externalLink: https://gitlab.mpcdf.mpg.de/mpibr/schu
 ---

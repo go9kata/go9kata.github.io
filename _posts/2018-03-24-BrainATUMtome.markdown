@@ -10,5 +10,5 @@ hidden: true # don't count this post in blog pagination
 description: "UI for driving serial sectioning with video feedback"
 category: project
 author: go9kata
-externalLink: https://github.molgen.mpg.de/MPIBR/FearGame
+externalLink: https://gitlab.mpcdf.mpg.de/mpibr/scic/BrainATUMtome
 ---
