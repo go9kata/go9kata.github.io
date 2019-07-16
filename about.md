@@ -28,6 +28,9 @@ layout: about
 
 <h2>Publications</h2>
 
+### 2019
+Biever, A., Glock, C., **Tushev, G.**, Ciirdaeva, E., Langer, J.D., Schuman, E.M. (2019) Monosomes actively translate synaptic mRNAs in neuronal processes. ***Science*** (in revision) DOI: [687475](https://doi.org/10.1101/687475)
+
 ### 2018
 Tosches, M.A., Yamawaki, T.M., Naumann, R.K., Jacobi, A.A., **Tushev, G.** and Laurent, G. (2018). Evolution of pallium, hippocampus and cortical cell types revealed by single-cell transcriptomics in reptiles. ***Science***,
 PMID: [29724907](https://www.ncbi.nlm.nih.gov/pubmed/29724907)
