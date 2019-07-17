@@ -15,8 +15,8 @@ var d = [[
 
 //Options for the Radar chart, other than default
 var mycfg = {
-w: 500,
-h: 500,
+w: 400,
+h: 400,
 maxValue: 1.0,
 levels: 5,
 ExtraWidthX: 300,

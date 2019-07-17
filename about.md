@@ -10,21 +10,29 @@ layout: about
 
 <p align="justify">Consulting on modern IT infrastructure implementation, organization and maintenance for big data storage and scientific computing.</p>
 
+<div class="breaker"></div>
+
 <h2>Skill set</h2>
 
 <p  align="justify">The diversity of projects and techniques applied in neuroscience research demands usage of variety of tools. Each problem is approached with most suitable programming environment, e.g. agile and modern user interface is implemented with Qt/C++, embedded solutions like Arduino boards or National instrument cards are programmed with C language, data visualization is rendered with Matlab or Plotly via Python or R, machine learning techniques are used with Python and code and/or project maintenance is done with Git. As a software developer I am happy to use variety of tools, where one can compare and understand pros and cons of different APIs and is ready to apply most suited ones to the problem at stake.</p>
-
+        
 <div id="chart_skills"></div>
+        
+<div class="breaker"></div>
 
 <h2>Experience</h2>
 
 <p align="justify">Important part of software development in research field is to fully grasp and understand the problems. A thorough background in biology and neuroscience is required to smooth down the communication with scientists and abstract them out from the technical aspect of problem solving. Next big challenge is to keep track of modern techniques and equipment limits. Knowing instruments quality measures, synchronization demands and programmable capabilities gives you a head start in designing and implementing steady and reliable control or analysis software. Most of all, one needs to enjoy the thrill of solving challenging problems, application of novel algorithms and learning new libraries and programming paradigms. Self-driven urge of improvement is shaping day-to-day work.</p>
-
+    
 <div id="chart_experience"></div>
+
+<div class="breaker"></div>
 
 ## Awards
 
 [Friends of the MPI for Brain Research](https://brain.mpg.de/services/become-a-friend/) award for the best Ph.D. work in [2015](https://brain.mpg.de/fileadmin/user_upload/images/Friends/Newsletter_2_2015.pdf).
+
+<div class="breaker"></div>
 
 <h2>Publications</h2>
 
