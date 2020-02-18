@@ -1,4 +1,6 @@
 # encoding
+sass:
+    add_charset: true
 encoding: utf-8
 
 # main text of home

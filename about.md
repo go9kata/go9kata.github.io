@@ -36,8 +36,11 @@ layout: about
 
 <h2>Publications</h2>
 
+### 2020
+Biever, A., Glock, C., **Tushev, G.**, Ciirdaeva, E., Langer, J.D., Schuman, E.M. (2020). Monosomes actively translate synaptic mRNAs in neuronal processes. ***Science***, PMID: [32001627](https://www.ncbi.nlm.nih.gov/pubmed/32001627)
+
 ### 2019
-Biever, A., Glock, C., **Tushev, G.**, Ciirdaeva, E., Langer, J.D., Schuman, E.M. (2019) Monosomes actively translate synaptic mRNAs in neuronal processes. ***Science*** (in revision) DOI: [687475](https://doi.org/10.1101/687475)
+Wang, X., You, X., Langer, JD., Hou, J., Rupprecht, F., Vlatkovic, I., Quedenau, C., **Tushev, G.**, Epstein, I., Schaefke, B., Sun, W., Fang, L., Li, G., Hu, Y., Schuman, EM., Chen, W. (2019). Full-length transcriptome reconstruction reveals a large diversity of RNA and protein isoforms in rat hippocampus. ***Nature Communications***, PMID: [31676752](https://www.ncbi.nlm.nih.gov/pubmed/31676752)
 
 ### 2018
 Tosches, M.A., Yamawaki, T.M., Naumann, R.K., Jacobi, A.A., **Tushev, G.** and Laurent, G. (2018). Evolution of pallium, hippocampus and cortical cell types revealed by single-cell transcriptomics in reptiles. ***Science***,
@@ -69,4 +72,4 @@ Epstein, I., **Tushev, G.**, Will, T.J., Vlatkovic, I., Cajigas, I.J., Schuman, 
 Hinz, F.I., **Tushev, G.**, Aizenberg, M., and Schuman, E.M. (2013). Protein synthesis-dependent associative long-term memory in larval zebrafish. ***Journal of Neuroscience***, PMID: [24068805](https://www.ncbi.nlm.nih.gov/pubmed/24068805)
 
 ### 2012
-Cajigas, I.J., **Tushev, G.**, Will, T.J., tom Dieck, S., Fuerst, N., and Schuman, E.M.: The Local Transcriptome in the Synaptic Neuropil Revealed by Deep Sequencing and High-Resolution Imaging. ***Neuron***, PMID: [22578497](https://www.ncbi.nlm.nih.gov/pubmed/22578497)
+Cajigas, I.J.*, **Tushev, G.***, Will, T.J., tom Dieck, S., Fuerst, N., and Schuman, E.M.: The Local Transcriptome in the Synaptic Neuropil Revealed by Deep Sequencing and High-Resolution Imaging. ***Neuron***, PMID: [22578497](https://www.ncbi.nlm.nih.gov/pubmed/22578497)
