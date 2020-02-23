@@ -22,7 +22,7 @@ resume-external: true
 resume-url: https://drive.google.com/file/d/18JYbbZ0aycKPpImQsaZkIOzlPQhDSCHB/view?usp=sharing
 
 # url: https://koppl.in/indigo
-url: http://go9kata.github.io
+url: http://tushevg.github.io
 
 permalink: /:title/
 
@@ -40,9 +40,9 @@ disqus:
 
 # if you don't have any of social below, comment the line
 email: georgi.a.tushev@gmail.com
-github: go9kata
+github: tushevg
 linkedin: georgitushev/
-twitter: go9kata
+twitter: tushevg
 gitlab: getu
 researchgate: Georgi_Tushev/
 # facebook: myfacebook
